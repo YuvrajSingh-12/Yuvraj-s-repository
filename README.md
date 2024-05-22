@@ -1,3 +1,2 @@
 # Yuvraj's-repository
-This is a intro of git
-Author- Yuvraj Singh
+This is a intro of Git Author- Yuvraj Singh
